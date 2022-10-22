@@ -18,9 +18,9 @@ Skills
 ------
 
 :coffee:         **Java**, **C++**, C  
-:snake:          **Python**, Matlab
+:snake:          **Python**, Matlab  
 :sunglasses:     **JavaScript**  
-:pick:           **MySQL**, Bash
+:pick:           **MySQL**, Bash, Haskell, ARM   
 :paintbrush:     Photoshop, Premiere Pro, Audacity  
 
 
