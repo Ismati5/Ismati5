@@ -1,16 +1,30 @@
-### Hi there 👋
+Hi, I'm Ismati5 :wave:
+===================
 
-<!--
-**Ismati5/Ismati5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer engineer, artificial intelligence, games, imaging 
+and rendering and algorithms.
 
-Here are some ideas to get you started:
+Life
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:shipit: [**University of Zaragoza**][ur] Computer Science Engineering  
+:shipit: [**Mooncode**][42tm] creator & Frankenstory dev
+
+[ur]: https://www.unizar.es
+[42tm]: https://frankenstory-mooncode.herokuapp.com
+
+
+Skills
+------
+
+:coffee:         **Java**, **C++**, C  
+:snake:          **Python**, Matlab
+:sunglasses:     **JavaScript**  
+:pick:           **MySQL**, Bash
+:paintbrush:     Photoshop, Premiere Pro, Audacity  
+
+
+###### Always learning something new!
+
+
+- - -
