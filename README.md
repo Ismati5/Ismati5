@@ -9,6 +9,7 @@ Life
 
 :shipit: [**University of Zaragoza**][ur] Computer Science Engineering  
 :shipit: [**Mooncode**][42tm] creator & Frankenstory dev
+:shipit: [**ViveRural**][42tm] co-owner
 
 [ur]: https://www.unizar.es
 [42tm]: https://frankenstory-mooncode.herokuapp.com
