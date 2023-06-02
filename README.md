@@ -26,7 +26,7 @@ Skills
 :paintbrush:     Photoshop, Premiere Pro, Audacity
 
 
-Most used languages
+My languages
 ------
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismati5&layout=compact)
