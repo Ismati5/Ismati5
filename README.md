@@ -23,8 +23,13 @@ Skills
 :snake:          **Python**, Matlab  
 :sunglasses:     **JavaScript**  
 :pick:           **MySQL**, Bash, Haskell, ARM   
-:paintbrush:     Photoshop, Premiere Pro, Audacity  
+:paintbrush:     Photoshop, Premiere Pro, Audacity
 
+
+Most used languages
+------
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismati5&layout=compact)
 
 ###### Always learning something new!
 
